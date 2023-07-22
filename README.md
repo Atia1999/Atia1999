@@ -1,4 +1,4 @@
-### Hi there 👋 This is Atia Rahman Orthi, pursuing undergrad(4-1) from Computer Science & Enginerring, Jahangirnagar University
+### <center> Hi there 👋 This is Atia Rahman Orthi, pursuing undergrad(4-1) from Computer Science & Enginerring, Jahangirnagar University</center>
    - 🌍  I'm based in Dhaka, Bangladesh
    - 🌱 I’m currently learning Java, Python, Android Studio application
    - 📫 Reach me: here atiarahman.540@gmail.com
@@ -14,8 +14,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atia199&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=Atia1999
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atia1999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
