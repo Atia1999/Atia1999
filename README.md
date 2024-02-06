@@ -17,7 +17,7 @@
 ---
 
 ### :fire: My Stats :
-![Atia Rahman Orthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Atia Rahman Orthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atia1999&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atia1999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
