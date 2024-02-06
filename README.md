@@ -2,8 +2,8 @@
    - 🌍  I'm based in Dhaka, Bangladesh
    - 🌱 I’m currently learning Java, Python, Android Studio application
    - 📫 Reach me: here atiarahman.540@gmail.com
-     
 
+![](https://komarev.com/ghpvc/?username=Atia1999&color=green&style=flat-square&label=PROFILE+VIEWS)
 ### Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
