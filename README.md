@@ -1,7 +1,7 @@
 ### <center> Hi there 👋 This is Atia Rahman Orthi, pursuing undergrad(4-2) from Computer Science & Enginerring, Jahangirnagar University</center>
    - 🌍  I'm based in Dhaka, Bangladesh
    - 🌱 I’m currently learning Java, Python, Android Studio application
-   - 📫 Reach me: here atiarahman.540@gmail.com
+   - 📫 Reach me: here atiajucse48@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Atia1999&color=green&style=flat-square&label=PROFILE+VIEWS)
 ### Skills
